@@ -1,4 +1,4 @@
-
+Ecommerce template.
 
  ![Website preview on desktop](website-demo-image/desktop.png)
 
