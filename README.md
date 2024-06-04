@@ -1,5 +1,6 @@
- Visit site here:
- https://aapwoka.github.io/frontend-ecommerce/
 
- ![Website preview](website-demo-image/desktop.png)
+
+ ![Website preview on desktop](website-demo-image/desktop.png)
+
+ ![Website view on phone](website-demo-image/mobile.png)
  
